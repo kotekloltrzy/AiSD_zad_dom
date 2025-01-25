@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+```c#
 class HuffmanNode
 {
     public char character { get; set; }
@@ -150,3 +150,4 @@ class Program
         Console.WriteLine("Odkodowany: " + decoded);
     }
 }
+```

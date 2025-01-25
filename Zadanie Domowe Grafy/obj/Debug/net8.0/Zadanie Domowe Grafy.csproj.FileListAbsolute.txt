@@ -1,0 +1,14 @@
+D:\VisualStudio\repos\Zadanie Domowe Grafy\bin\Debug\net8.0\Zadanie Domowe Grafy.exe
+D:\VisualStudio\repos\Zadanie Domowe Grafy\bin\Debug\net8.0\Zadanie Domowe Grafy.deps.json
+D:\VisualStudio\repos\Zadanie Domowe Grafy\bin\Debug\net8.0\Zadanie Domowe Grafy.runtimeconfig.json
+D:\VisualStudio\repos\Zadanie Domowe Grafy\bin\Debug\net8.0\Zadanie Domowe Grafy.dll
+D:\VisualStudio\repos\Zadanie Domowe Grafy\bin\Debug\net8.0\Zadanie Domowe Grafy.pdb
+D:\VisualStudio\repos\Zadanie Domowe Grafy\obj\Debug\net8.0\Zadanie Domowe Grafy.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\repos\Zadanie Domowe Grafy\obj\Debug\net8.0\Zadanie Domowe Grafy.AssemblyInfoInputs.cache
+D:\VisualStudio\repos\Zadanie Domowe Grafy\obj\Debug\net8.0\Zadanie Domowe Grafy.AssemblyInfo.cs
+D:\VisualStudio\repos\Zadanie Domowe Grafy\obj\Debug\net8.0\Zadanie Domowe Grafy.csproj.CoreCompileInputs.cache
+D:\VisualStudio\repos\Zadanie Domowe Grafy\obj\Debug\net8.0\Zadanie Domowe Grafy.dll
+D:\VisualStudio\repos\Zadanie Domowe Grafy\obj\Debug\net8.0\refint\Zadanie Domowe Grafy.dll
+D:\VisualStudio\repos\Zadanie Domowe Grafy\obj\Debug\net8.0\Zadanie Domowe Grafy.pdb
+D:\VisualStudio\repos\Zadanie Domowe Grafy\obj\Debug\net8.0\Zadanie Domowe Grafy.genruntimeconfig.cache
+D:\VisualStudio\repos\Zadanie Domowe Grafy\obj\Debug\net8.0\ref\Zadanie Domowe Grafy.dll

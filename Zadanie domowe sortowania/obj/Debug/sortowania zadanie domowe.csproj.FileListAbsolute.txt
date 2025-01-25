@@ -1,0 +1,10 @@
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\obj\Debug\sortowania zadanie domowe.csproj.AssemblyReference.cache
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\obj\Debug\zadaniedomowe2._0.Form1.resources
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\obj\Debug\zadaniedomowe2._0.Properties.Resources.resources
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\obj\Debug\sortowania zadanie domowe.csproj.GenerateResource.cache
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\obj\Debug\sortowania zadanie domowe.csproj.CoreCompileInputs.cache
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\obj\Debug\zadaniedomowe2.0.exe
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\obj\Debug\zadaniedomowe2.0.pdb
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\bin\Debug\zadaniedomowe2.0.exe.config
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\bin\Debug\zadaniedomowe2.0.exe
+D:\pliki\studia\AiSD\Zadanie domowe sortowania\bin\Debug\zadaniedomowe2.0.pdb

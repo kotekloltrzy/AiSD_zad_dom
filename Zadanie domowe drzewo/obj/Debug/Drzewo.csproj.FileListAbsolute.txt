@@ -1,0 +1,10 @@
+D:\VisualStudio\repos\Drzewo\bin\Debug\Drzewo.exe.config
+D:\VisualStudio\repos\Drzewo\bin\Debug\Drzewo.exe
+D:\VisualStudio\repos\Drzewo\bin\Debug\Drzewo.pdb
+D:\VisualStudio\repos\Drzewo\obj\Debug\Drzewo.csproj.AssemblyReference.cache
+D:\VisualStudio\repos\Drzewo\obj\Debug\Drzewo.Form1.resources
+D:\VisualStudio\repos\Drzewo\obj\Debug\Drzewo.Properties.Resources.resources
+D:\VisualStudio\repos\Drzewo\obj\Debug\Drzewo.csproj.GenerateResource.cache
+D:\VisualStudio\repos\Drzewo\obj\Debug\Drzewo.csproj.CoreCompileInputs.cache
+D:\VisualStudio\repos\Drzewo\obj\Debug\Drzewo.exe
+D:\VisualStudio\repos\Drzewo\obj\Debug\Drzewo.pdb

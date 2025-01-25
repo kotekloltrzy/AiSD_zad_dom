@@ -1,0 +1,10 @@
+D:\VisualStudio\repos\algorytmDijkstry\obj\Debug\algorytmDijkstry.csproj.AssemblyReference.cache
+D:\VisualStudio\repos\algorytmDijkstry\obj\Debug\algorytmDijkstry.Form1.resources
+D:\VisualStudio\repos\algorytmDijkstry\obj\Debug\algorytmDijkstry.Properties.Resources.resources
+D:\VisualStudio\repos\algorytmDijkstry\obj\Debug\algorytmDijkstry.csproj.GenerateResource.cache
+D:\VisualStudio\repos\algorytmDijkstry\obj\Debug\algorytmDijkstry.csproj.CoreCompileInputs.cache
+D:\VisualStudio\repos\algorytmDijkstry\bin\Debug\algorytmDijkstry.exe.config
+D:\VisualStudio\repos\algorytmDijkstry\bin\Debug\algorytmDijkstry.exe
+D:\VisualStudio\repos\algorytmDijkstry\bin\Debug\algorytmDijkstry.pdb
+D:\VisualStudio\repos\algorytmDijkstry\obj\Debug\algorytmDijkstry.exe
+D:\VisualStudio\repos\algorytmDijkstry\obj\Debug\algorytmDijkstry.pdb
